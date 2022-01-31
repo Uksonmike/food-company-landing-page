@@ -71,9 +71,9 @@
 }
 
 
-.one{background-image: url(/asset/photo-1565299624946-b28f40a0ae38.jpeg);}
-.two{background-image: url(/asset/photo-1482049016688-2d3e1b311543.jpeg);}
-.three{background-image: url(/asset/photo-1481070555726-e2fe8357725c.jpeg);}
+.one{background-image: url(https://raw.githubusercontent.com/Uksonmike/food-company-landing-page/main/asset/photo-1565299624946-b28f40a0ae38.jpeg);}
+.two{background-image: url(https://raw.githubusercontent.com/Uksonmike/food-company-landing-page/main/asset/photo-1482049016688-2d3e1b311543.jpeg);}
+.three{background-image: url(https://raw.githubusercontent.com/Uksonmike/food-company-landing-page/main/asset/photo-1481070555726-e2fe8357725c.jpeg);}
 
 .button{
     text-decoration: underline;
